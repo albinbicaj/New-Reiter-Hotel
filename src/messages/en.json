@@ -1,0 +1,169 @@
+{
+  "navbar": {
+    "titleLine1": "New Reiter",
+    "titleLine2": "Hotel",
+    "services": "Services",
+    "rooms": "Rooms",
+    "ourRestaurant": "Our Restaurant",
+    "information": "Information",
+    "corporate": "Corporate",
+    "ourLocation": "Our Location",
+    "contacts": "Contacts"
+  },
+  "home": {
+    "heroSubtitle": "NEW REITER - Just 6 minutes from San Marco.",
+    "heroTitle": "A luxury escape to the sea",
+    "welcome": "We welcome you",
+    "hotelName": "New Reiter Hotel",
+    "description": "We are located in a perfect position to discover the city of Venice and beyond: a starting point to visit the center, enjoy the beaches, and explore the Dune degli Alberoni Oasis.\n\nAt the New Reiter, you will find all the comfort for an ideal 4-star stay, just a few steps from the water buses and the beaches of the Lido.",
+    "servicesTitle": "Services"
+  },
+  "services": {
+    "freeWifi": "Free Wi-Fi",
+    "breakfast": "Breakfast",
+    "restaurant": "Restaurant",
+    "reception24h": "24-Hour Reception",
+    "bar": "Bar",
+    "accessible": "Hotel for People with Disabilities",
+    "elevator": "Elevator",
+    "luggageStorage": "Free Luggage Storage",
+    "parking": "Parking"
+  },
+  "transportation": {
+    "howToArrive": "How to arrive?",
+    "byCar": "By car, motorcycle, or bicycle",
+    "byCarDescription": "Take the ferry from the Tronchetto Parking to Venice to Lido.",
+    "byTrain": "By train",
+    "byTrainDescription": "From Venice Santa Lucia station, take the vaporetto (lines 1, 5.2, or 2) to the Lido - Santa Elisabetta stop. The hotel is just a few minutes walk from the stop.",
+    "fromAirport": "From Marco Polo Airport",
+    "waterTaxi": "Water taxi",
+    "waterTaxiDescription": "Available 24/7 at the taxi stand outside the airport.",
+    "alilaguna": "Alilaguna service",
+    "alilagunaDescription": "Water transport to the Lido - Santa Maria Elisabetta stop (about 1 hour travel time). From there, the hotel is a short walk away."
+  },
+    "rooms": {
+      "title": "The Rooms",
+      "description": "The rooms at New Reiter Hotel have been elegantly renovated to offer a luxurious and comfortable stay. Designed with a touch of sophistication, each room features a private bathroom, premium toiletries, a hairdryer, air conditioning, a minibar, a secure safe, a wake-up service, an LCD TV, and complimentary high-speed Wi-Fi. Experience a perfect blend of style and comfort for an unforgettable stay.",
+      "checkAvailability": "Check Availability",
+      "hotelViewAlt": "Hotel View",
+      "roomTypes": {
+        "singleUse": {
+          "title": "Double room for single use",
+          "description": "Double rooms for single use ensure a private stay in quiet and cozy surroundings.",
+          "size": "14 m² / 1 person",
+          "features": "Equipped with a double bed for added comfort."
+        },
+        "superior": {
+          "title": "Superior double room",
+          "description": "Spacious and comfortable rooms with premium amenities.",
+          "size": "15 m² / 2 persons",
+          "features": "Equipped with a double bed and enhanced services."
+        },
+        "deluxe": {
+          "title": "Deluxe double room",
+          "description": "Luxurious rooms with extra space and high-end furnishings.",
+          "size": "16 m² / 2 persons",
+          "features": "Equipped with a king-size bed and premium amenities."
+        },
+        "family": {
+          "title": "Family room",
+          "description": "Spacious rooms ideal for families, offering comfort and convenience.",
+          "size": "20 m² / 4 persons",
+          "features": "Equipped with two double beds for added comfort."
+        }
+      }
+    },
+    "ourRestaurant": {
+    "title": "In the hotel, you can find our restaurant here",
+    "restaurantName": "Al Cavaliere",
+    "description": "Al Cavaliere is our charming in-house restaurant, offering a delightful dining experience with seating for up to 100 guests. Overlooking the Grand Avenue, it's the perfect spot to enjoy a delicious meal in a warm and inviting atmosphere.",
+    "locationImageAlt": "Restaurant location marker",
+    "badgeAlt": "Restaurant award badge",
+    "interiorImageAlt": "Restaurant interior view"
+  },
+  "information": {
+    "title": "Useful information",
+    "checkIn": "Check-in is from 2 PM",
+    "checkOut": "Check-out is by 11 AM",
+    "earlyLateCheckIn": "Early & late check-in available",
+    "noPets": "Pets are not allowed",
+    "breakfastHours": "Breakfast: 8 AM - 10 AM",
+    "restaurantHours": "Restaurant: 12 PM - 10:30 PM",
+    "freeWifi": "Free Wi-Fi in all areas",
+    "locationImageAlt": "Location information card",
+    "headerImageAlt": "Information header image",
+    "iconAlt": "Information icon"
+  },
+  "corporate": {
+    "title": "Strengthen Bonds, Create Memories",
+    "subtitle": "Planning a trip with your colleagues, or your team?",
+    "description": "We specialize in organizing corporate retreats, team-building experiences, and professional gatherings. Having worked with international companies, we craft seamless and unforgettable events that foster collaboration and connection.\n\nLet us handle the details while you focus on what truly matters, building relationships and making lasting memories.",
+    "contactButton": "Contact us for details",
+    "headerImageAlt": "Corporate events header image",
+    "eventImageAlt": "Corporate event photo"
+  },
+  "location": {
+    "title": "Where are we?",
+    "address": "Gran Viale Santa Maria Elisabetta 57/b, 30126 Venice VE",
+    "description": "The New Reiter Hotel is located on the Gran Viale del Lido of Venice.",
+    "waterbusDistance": "Just 5 minutes from the waterbus terminal.",
+    "beachDistance": "A 10-minute walk from the historic beaches of the Lido.",
+    "filmFestivalDistance": "A 17-minute walk from the Venice International Film Festival.",
+    "golfClubDistance": "A 20-minute drive from the Golf Club.",
+    "shoppingDescription": "The Gran Viale is lively, full of shops.",
+    "mapTitle": "Hotel New Reiter location map",
+    "locationIconAlt": "Location pin icon",
+    "waterbusIconAlt": "Waterbus icon",
+    "walkingIconAlt": "Walking icon",
+    "carIconAlt": "Car icon",
+    "shopIconAlt": "Shop icon"
+  },
+  "contacts": {
+    "title": "Contact Us",
+    "description": "You'll always find the best prices here. For bookings or inquiries, feel free to reach out to us!",
+    "backgroundAlt": "New Reiter Hotel Background",
+    "emailAlt": "Mail",
+    "phoneAlt": "Phone",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message",
+      "submitButton": "Send Message"
+    }
+  },
+  "footer": {
+    "openingHours": {
+      "title": "Opening hours",
+      "checkIn": "Check-in",
+      "checkInTime": "From 2 pm",
+      "checkOut": "Check-out",
+      "checkOutTime": "From 11 am",
+      "breakfast": "Breakfast",
+      "breakfastTime": "8:00 am - 10:00 am",
+      "restaurant": "Restaurant",
+      "restaurantTime": "12:00 noon - 10:30 pm",
+      "bar": "Bar",
+      "barTime": "12:00 noon - 11:00 pm"
+    },
+    "hotelInfo": {
+      "title": "New Reiter Hotel",
+      "description": "At the New Reiter, you will find all the comfort you need for an ideal 4-star holiday, just a few steps away from the water buses and the Lido's beaches."
+    },
+    "socialIcons": {
+      "facebookAlt": "Facebook",
+      "instagramAlt": "Instagram"
+    },
+    "contactInfo": {
+      "title": "Contact info",
+      "address": "Address",
+      "addressValue": "Gran Viale Santa Maria Elisabetta 57/b, 30126, Venice VE",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

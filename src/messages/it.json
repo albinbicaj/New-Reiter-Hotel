@@ -1,0 +1,169 @@
+{
+  "navbar": {
+    "titleLine1": "New Reiter",
+    "titleLine2": "Hotel",
+    "services": "Servizi",
+    "rooms": "Camere",
+    "ourRestaurant": "Il Nostro Ristorante",
+    "information": "Informazioni",
+    "corporate": "Corporate",
+    "ourLocation": "La Nostra Posizione",
+    "contacts": "Contatti"
+  },
+ "home": {
+    "heroSubtitle": "NEW REITER - A soli 6 minuti da San Marco.",
+    "heroTitle": "Una fuga di lusso al mare",
+    "welcome": "Vi diamo il benvenuto",
+    "hotelName": "New Reiter Hotel",
+    "description": "Siamo situati in una posizione perfetta per scoprire la città di Venezia e dintorni: un punto di partenza per visitare il centro, godersi le spiagge ed esplorare l'Oasi delle Dune degli Alberoni.\n\nAl New Reiter troverete tutto il comfort per un soggiorno ideale a 4 stelle, a pochi passi dai vaporetti e dalle spiagge del Lido.",
+    "servicesTitle": "Servizi"
+  },
+  "services": {
+    "freeWifi": "Wi-Fi gratuito",
+    "breakfast": "Colazione",
+    "restaurant": "Ristorante",
+    "reception24h": "Reception 24 ore",
+    "bar": "Bar",
+    "accessible": "Hotel per persone con disabilità",
+    "elevator": "Ascensore",
+    "luggageStorage": "Deposito bagagli gratuito",
+    "parking": "Parcheggio"
+  },
+  "transportation": {
+    "howToArrive": "Come arrivare?",
+    "byCar": "In auto, moto o bicicletta",
+    "byCarDescription": "Prendere il traghetto dal parcheggio Tronchetto a Venezia per il Lido.",
+    "byTrain": "In treno",
+    "byTrainDescription": "Dalla stazione di Venezia Santa Lucia, prendere il vaporetto (linee 1, 5.2 o 2) fino alla fermata Lido - Santa Elisabetta. L'hotel è a pochi minuti a piedi dalla fermata.",
+    "fromAirport": "Dall'aeroporto Marco Polo",
+    "waterTaxi": "Taxi acqueo",
+    "waterTaxiDescription": "Disponibile 24 ore su 24 al posteggio dei taxi fuori dall'aeroporto.",
+    "alilaguna": "Servizio Alilaguna",
+    "alilagunaDescription": "Trasporto acqueo fino alla fermata Lido - Santa Maria Elisabetta (circa 1 ora di viaggio). Da lì, l'hotel è a pochi passi."
+  },
+    "rooms": {
+      "title": "Le Camere",
+      "description": "Le camere del New Reiter Hotel sono state elegantemente rinnovate per offrire un soggiorno lussuoso e confortevole. Progettate con un tocco di raffinatezza, ogni camera dispone di bagno privato, articoli da toeletta di alta qualità, asciugacapelli, aria condizionata, minibar, cassaforte, servizio sveglia, TV LCD e Wi-Fi ad alta velocità gratuito. Sperimentate un perfetto connubio tra stile e comfort per un soggiorno indimenticabile.",
+      "checkAvailability": "Verifica Disponibilità",
+      "hotelViewAlt": "Vista dell'hotel",
+      "roomTypes": {
+        "singleUse": {
+          "title": "Camera doppia uso singolo",
+          "description": "Le camere doppie per uso singolo garantiscono un soggiorno privato in un ambiente tranquillo e accogliente.",
+          "size": "14 m² / 1 persona",
+          "features": "Dotata di un letto matrimoniale per maggiore comfort."
+        },
+        "superior": {
+          "title": "Camera doppia superiore",
+          "description": "Camere spaziose e confortevoli con servizi premium.",
+          "size": "15 m² / 2 persone",
+          "features": "Dotata di un letto matrimoniale e servizi potenziati."
+        },
+        "deluxe": {
+          "title": "Camera doppia deluxe",
+          "description": "Camere lussuose con spazio extra e arredamenti di alta gamma.",
+          "size": "16 m² / 2 persone",
+          "features": "Dotata di un letto king-size e servizi premium."
+        },
+        "family": {
+          "title": "Camera familiare",
+          "description": "Camere spaziose ideali per famiglie, che offrono comfort e convenienza.",
+          "size": "20 m² / 4 persone",
+          "features": "Dotata di due letti matrimoniali per maggiore comfort."
+        }
+      }
+    },
+    "ourRestaurant": {
+    "title": "Nell'hotel, potete trovare il nostro ristorante qui",
+    "restaurantName": "Al Cavaliere",
+    "description": "Al Cavaliere è il nostro incantevole ristorante interno, che offre un'esperienza gastronomica piacevole con posti a sedere per fino a 100 ospiti. Affacciato sul Grand Avenue, è il luogo perfetto per gustare un pasto delizioso in un'atmosfera accogliente e invitante.",
+    "locationImageAlt": "Indicatore posizione ristorante",
+    "badgeAlt": "Distintivo premio ristorante",
+    "interiorImageAlt": "Vista interna del ristorante"
+  },
+  "information": {
+    "title": "Informazioni utili",
+    "checkIn": "Check-in a partire dalle 14:00",
+    "checkOut": "Check-out entro le 11:00",
+    "earlyLateCheckIn": "Check-in anticipato e tardivo disponibile",
+    "noPets": "Animali domestici non ammessi",
+    "breakfastHours": "Colazione: 8:00 - 10:00",
+    "restaurantHours": "Ristorante: 12:00 - 22:30",
+    "freeWifi": "Wi-Fi gratuito in tutte le aree",
+    "locationImageAlt": "Scheda informazioni sulla posizione",
+    "headerImageAlt": "Immagine intestazione informazioni",
+    "iconAlt": "Icona informativa"
+  },
+  "corporate": {
+    "title": "Rafforza i legami, crea ricordi",
+    "subtitle": "Stai pianificando un viaggio con i tuoi colleghi o il tuo team?",
+    "description": "Siamo specializzati nell'organizzazione di ritiri aziendali, esperienze di team building e incontri professionali. Avendo lavorato con aziende internazionali, creiamo eventi senza intoppi e indimenticabili che favoriscono la collaborazione e la connessione.\n\nLascia che ci occupiamo dei dettagli mentre tu ti concentri su ciò che conta davvero: costruire relazioni e creare ricordi duraturi.",
+    "contactButton": "Contattaci per maggiori informazioni",
+    "headerImageAlt": "Immagine intestazione eventi aziendali",
+    "eventImageAlt": "Foto evento aziendale"
+  },
+  "location": {
+    "title": "Dove siamo?",
+    "address": "Gran Viale Santa Maria Elisabetta 57/b, 30126 Venezia VE",
+    "description": "Il New Reiter Hotel si trova sul Gran Viale del Lido di Venezia.",
+    "waterbusDistance": "A soli 5 minuti dal terminal dei vaporetti.",
+    "beachDistance": "A 10 minuti a piedi dalle storiche spiagge del Lido.",
+    "filmFestivalDistance": "A 17 minuti a piedi dalla Mostra Internazionale d'Arte Cinematografica di Venezia.",
+    "golfClubDistance": "A 20 minuti di auto dal Golf Club.",
+    "shoppingDescription": "Il Gran Viale è vivace, pieno di negozi.",
+    "mapTitle": "Mappa della posizione dell'Hotel New Reiter",
+    "locationIconAlt": "Icona segnaposto posizione",
+    "waterbusIconAlt": "Icona vaporetto",
+    "walkingIconAlt": "Icona a piedi",
+    "carIconAlt": "Icona auto",
+    "shopIconAlt": "Icona negozio"
+  },
+  "contacts": {
+    "title": "Contattaci",
+    "description": "Qui troverai sempre i prezzi migliori. Per prenotazioni o informazioni, non esitare a contattarci!",
+    "backgroundAlt": "Sfondo del New Reiter Hotel",
+    "emailAlt": "Email",
+    "phoneAlt": "Telefono",
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "Inserisci il tuo nome",
+      "email": "Email",
+      "emailPlaceholder": "Inserisci la tua email",
+      "phone": "Numero di telefono",
+      "phonePlaceholder": "Inserisci il tuo numero di telefono",
+      "message": "Messaggio",
+      "messagePlaceholder": "Inserisci il tuo messaggio",
+      "submitButton": "Invia Messaggio"
+    }
+  },
+  "footer": {
+    "openingHours": {
+      "title": "Orari di apertura",
+      "checkIn": "Check-in",
+      "checkInTime": "Dalle 14:00",
+      "checkOut": "Check-out",
+      "checkOutTime": "Entro le 11:00",
+      "breakfast": "Colazione",
+      "breakfastTime": "8:00 - 10:00",
+      "restaurant": "Ristorante",
+      "restaurantTime": "12:00 - 22:30",
+      "bar": "Bar",
+      "barTime": "12:00 - 23:00"
+    },
+    "hotelInfo": {
+      "title": "New Reiter Hotel",
+      "description": "Al New Reiter troverai tutto il comfort necessario per una vacanza ideale a 4 stelle, a pochi passi dai vaporetti e dalle spiagge del Lido."
+    },
+    "socialIcons": {
+      "facebookAlt": "Facebook",
+      "instagramAlt": "Instagram"
+    },
+    "contactInfo": {
+      "title": "Informazioni di contatto",
+      "address": "Indirizzo",
+      "addressValue": "Gran Viale Santa Maria Elisabetta 57/b, 30126, Venezia VE",
+      "email": "Email",
+      "phone": "Telefono"
+    }
+  }
+}
